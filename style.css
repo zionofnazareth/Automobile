@@ -78,6 +78,9 @@
   .center p i {
     color: white;
   }
+  .image-write{
+    background-color: green;
+  }
   
   .price {
     display: flex;
